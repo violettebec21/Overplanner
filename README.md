@@ -2,9 +2,9 @@
 
 ![Overplanner Logo](https://github.com/jbarrientos0730/The-B-Team/blob/master/Assets/IMAGES/logo.PNG)
 
-##Original Project 1 repo here: https://github.com/jbarrientos0730/The-B-Team
-    - Cloned into my own repo to have on file 
-    
+## Original Project 1 repo here: https://github.com/jbarrientos0730/The-B-Team
+Cloned into my own repo to have on file 
+
 ## What our app does
 We wanted to create a walking route oriented schedule generator that shows activity/restaurant recommendations based on distance you'd like to walk conveniently. Users will input their start point, their name, the duration of their trip and how far they are willing to walk per duration. 
 
