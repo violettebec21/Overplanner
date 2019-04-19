@@ -6,7 +6,7 @@
 Cloned into my own repo to have on file 
 
 ## What our app does
-We wanted to create a walking route oriented schedule generator that shows activity/restaurant recommendations based on distance you'd like to walk conveniently. Users will input their start point, their name, the duration of their trip and how far they are willing to walk per duration. 
+Overplanner is a web app that allows users to create walking-route-oriented schedule generator that shows activity/restaurant recommendations based on distance they would like to walk conveniently. Users will input their start point, their name, the duration of their trip and how far they are willing to walk per duration. 
 
 ## Why our app is useful
 Users can create an itinerary that accounts for my budget and time allocation so that they can maximize their time while touring a city.
